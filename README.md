@@ -3,6 +3,7 @@ This project came about as part of my curriculum for Harvard's CS50x class.
 
 ## Scope
 For those who have not taken Harvard CS50x course, the class is geared as an introduction to the world of programming. With that in mind, the first intro project they assign is to create a program within the beginner friendly programming language "Scratch".
+
 This language allows for an easy visual representation of coding to get those who have never coded an easy and visual way to learn to code.
 As such, for this project I decided to limit the scope of this recreation in the following way:
 
