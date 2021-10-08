@@ -13,6 +13,3 @@ As such, for this project I decided to limit the scope of this recreation in the
 
 ## Gameplay
 The game will consist of 5 rounds. At least 7 birds must be eliminated in order to proceed to the next level. The player is allowed 3 shots before reloading and must eliminate the birds before it flies off screen.
-
-## Coding
-For a full explanation on my coding and though process, please read about it [here](https://www.google.com).
